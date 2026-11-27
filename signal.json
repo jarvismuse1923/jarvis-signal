@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "id": "init",
+  "updated_at": "2026-11-27T03:05:00Z",
+  "repo": null,
+  "event": "init",
+  "thread_type": null,
+  "thread_number": null,
+  "actor": null,
+  "url": null,
+  "note": "Initial state. GitHub Actions in ggjt1923/career-system-poc updates this file when someone other than jarvismuse1923 comments. Metadata only, never private content."
+}
