@@ -1,11 +1,10 @@
 {
   "version": 1,
-  "id": "test-2026-11-27-hook-check",
-  "updated_at": "2026-11-27T03:12:00Z",
+  "id": "workflow_dispatch-45939024194",
+  "updated_at": "2026-11-27T04:17:03Z",
   "repo": "ggjt1923/career-system-poc",
   "event": "workflow_dispatch",
   "thread_number": 0,
-  "actor": "jarvis-test",
-  "url": "",
-  "note": "Test signal to verify the watcher wakes. Real events overwrite this."
+  "actor": "jarvismuse1923",
+  "url": ""
 }
